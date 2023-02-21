@@ -1,0 +1,19 @@
+.card{
+    height: 350px;
+    width: 300px;
+    overflow:hidden;
+    box-sizing: border-box;
+    
+}
+
+.card-img{
+height: 200px;
+}
+
+h5{
+    color: black;
+}
+
+.card button{
+    background-color: #0197d7;
+}

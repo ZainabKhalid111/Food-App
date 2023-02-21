@@ -1,0 +1,17 @@
+.card {
+  height: 350px;
+  width: 300px;
+  overflow: hidden;
+  box-sizing: border-box;
+  /* border-color: #0197d7; */
+  box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.card-img {
+  height: 200px;
+}
+
+.card button{
+    background-color: #0197d7;
+}

@@ -1,0 +1,28 @@
+.homepage {
+  margin: 0;
+  padding: 0;
+
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.home_section {
+  background: url("./../../images/chad-montano-eeqbbemH9-c-unsplash.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 0;
+  height: 90vh;
+}
+
+.search input {
+  padding: 10px 50px;
+  border-radius: 3px;
+  box-shadow: 0 1px 3px 0 rgb(0, 0, 0/ 2%);
+}
+
+.main_heading{
+  font-size: 80px;
+      text-shadow: 0 2px 1px #79a06d, 
+      -1px 3px 1px #96b51c, 
+      -2px 5px 1px #8ebf80;
+}

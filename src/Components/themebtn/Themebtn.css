@@ -1,0 +1,7 @@
+.theme_btn {
+  font-family: Georgia, "Times New Roman";
+  background-color: #0197d7;
+  margin: 15px;
+  display: flex;
+  justify-content: flex-end;
+}
